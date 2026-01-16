@@ -44,7 +44,7 @@
 
 #### 第一步：输入电话号码
 
-![电话号码输入示意图](./images/placeholder_phone_input.png)
+<img src="./images/placeholder_phone_input.png" width="40%" alt="电话号码输入示意图" />
 
 - 直接在输入框中输入电话号码
 - 或点击右侧的 📇 图标从通讯录选择联系人
@@ -174,7 +174,7 @@
 3. 如需修改：点击单条记录进行编辑
 4. 确认无误后，点击 **确认生成** 按钮
 
-![批量预览界面示意图](./images/placeholder_batch_preview.jpg)
+<img src="./images/placeholder_batch_preview.jpg" width="40%" alt="批量预览界面示意图" />
 
 ---
 
