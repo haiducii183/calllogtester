@@ -70,7 +70,7 @@
 
 #### 第一步：输入电话号码
 
-<img src="./images/placeholder_phone_input.png" width="40%" alt="电话号码输入示意图" />
+<img src="./images/placeholder_phone_input.jpg" width="40%" alt="电话号码输入示意图" />
 
 - 直接在输入框中输入电话号码
 - 或点击右侧的 📇 图标从通讯录选择联系人
