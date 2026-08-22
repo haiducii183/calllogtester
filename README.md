@@ -4,7 +4,7 @@
 
 **CallLogTester** 是一款专业的通话记录生成工具，帮助用户快速创建和管理通话记录。
 
-- 🌐 **官方网站**: <a href="https://www.778199.xyz" target="_blank" rel="noopener noreferrer">https://www.778199.xyz</a>
+- 🌐 **官方网站**: [https://www.778199.xyz](https://www.778199.xyz)
 
 ### 核心功能
 
@@ -358,7 +358,7 @@
 
 #### 第二步：获取授权码
 
-通过官方网站 <a href="https://www.778199.xyz" target="_blank" rel="noopener noreferrer">https://www.778199.xyz</a> 或官方授权渠道获取与您设备指纹对应的授权码。
+通过官方网站 [https://www.778199.xyz](https://www.778199.xyz) 或官方授权渠道获取与您设备指纹对应的授权码。
 
 #### 第三步：输入授权码
 
@@ -446,7 +446,7 @@
 
 **A**: 
 1. 进入 **关于** 页面，点击 **检查更新**，如有新版本按提示下载安装
-2. 或访问官方网站 <a href="https://www.778199.xyz" target="_blank" rel="noopener noreferrer">https://www.778199.xyz</a> 获取最新版本安装包
+2. 或访问官方网站 [https://www.778199.xyz](https://www.778199.xyz) 获取最新版本安装包
 
 ---
 
@@ -474,7 +474,7 @@
 
 ## 联系我们
 
-- 🌐 **官方网站**: <a href="https://www.778199.xyz" target="_blank" rel="noopener noreferrer">https://www.778199.xyz</a>
+- 🌐 **官方网站**: [https://www.778199.xyz](https://www.778199.xyz)
 - 💬 **应用内反馈**: 进入应用内的「关于」页面 -> 点击「咨询反馈」
 
 如有任何问题、功能建议或授权咨询，欢迎访问官网或通过应用内的咨询反馈功能联系我们。
