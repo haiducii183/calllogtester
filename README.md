@@ -4,7 +4,7 @@
 
 **CallLogTester** 是一款专业的通话记录生成工具，帮助用户快速创建和管理通话记录。
 
-- 🌐 **官方网站**: [https://www.778199.xyz](https://www.778199.xyz)
+- 🌐 **官方网站**: [https://calllogtester.1688122.xyz](https://calllogtester.1688122.xyz)
 
 ### 核心功能
 
@@ -52,17 +52,17 @@
 
 ### 官方下载地址
 
-- 🌐 **CallLogTester 官方网站**: [https://www.778199.xyz/](https://www.778199.xyz/)
+- 🌐 **CallLogTester 官方网站**: [https://calllogtester.1688122.xyz/](https://calllogtester.1688122.xyz/)
 
 ### 下载与安装步骤
 
-1. **访问官网**：使用手机或电脑浏览器打开 [CallLogTester 官方网站 (https://www.778199.xyz/)](https://www.778199.xyz/)。
+1. **访问官网**：使用手机或电脑浏览器打开 [CallLogTester 官方网站 (https://calllogtester.1688122.xyz/)](https://calllogtester.1688122.xyz/)。
 2. **下载安装包**：在官网页面点击「下载」或「Android APK 下载」按钮，获取最新版 Android 安装包（`.apk` 格式）。
 3. **允许安装未知来源**：在 Android 手机上打开下载完成的 APK 文件，如果系统弹出未知应用来源安装安全提示，请根据手机系统指引点击“允许本次安装”或在“设置 - 应用管理”中开启安装权限。
 4. **完成安装**：等待系统安装完成后，在桌面点击应用图标启动。
 
 > ⚠️ **安全提醒**: 
-> 为保障您的设备安全与正常授权服务，请务必认准官方唯一网站 [https://www.778199.xyz/](https://www.778199.xyz/) 下载正版软件，切勿从第三方未知网盘、论坛或破解分享渠道下载，以防被植入恶意程序或因客户端验签失败触发安全熔断。
+> 为保障您的设备安全与正常授权服务，请务必认准官方唯一网站 [https://calllogtester.1688122.xyz/](https://calllogtester.1688122.xyz/) 下载正版软件，切勿从第三方未知网盘、论坛或破解分享渠道下载，以防被植入恶意程序或因客户端验签失败触发安全熔断。
 
 ---
 
@@ -452,7 +452,7 @@
 
 #### 第二步：获取授权码
 
-通过官方网站 [https://www.778199.xyz](https://www.778199.xyz) 或官方授权渠道获取与您设备指纹对应的授权码。
+通过官方网站 [https://calllogtester.1688122.xyz](https://calllogtester.1688122.xyz) 或官方授权渠道获取与您设备指纹对应的授权码。
 
 #### 第三步：输入授权码
 
@@ -540,7 +540,7 @@
 
 **A**: 
 1. 进入 **关于** 页面，点击 **检查更新**，如有新版本按提示下载安装
-2. 或访问官方网站 [https://www.778199.xyz](https://www.778199.xyz) 获取最新版本安装包
+2. 或访问官方网站 [https://calllogtester.1688122.xyz](https://calllogtester.1688122.xyz) 获取最新版本安装包
 
 ---
 
@@ -588,7 +588,7 @@
 
 ## 联系我们
 
-- 🌐 **官方网站**: [https://www.778199.xyz](https://www.778199.xyz)
+- 🌐 **官方网站**: [https://calllogtester.1688122.xyz](https://calllogtester.1688122.xyz)
 - 💬 **应用内反馈**: 进入应用内的「关于」页面 -> 点击「咨询反馈」
 
 如有任何问题、功能建议或授权咨询，欢迎访问官网或通过应用内的咨询反馈功能联系我们。
